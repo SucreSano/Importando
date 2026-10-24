@@ -1,0 +1,11 @@
+MISIÓN IMPORTACIÓN - CAPITAL TOYS
+
+1. Descomprime el archivo ZIP.
+2. Abre index.html en Chrome, Edge, Firefox u otro navegador.
+3. No necesitas instalar nada ni configurar una base de datos.
+4. Para publicar en GitHub Pages o Firebase Hosting, sube juntos index.html, styles.css y script.js.
+5. Edita las preguntas en el arreglo 'questions' dentro de script.js.
+
+El juego incluye 8 preguntas de conocimiento y 2 de opinión. Las de opinión no afectan el puntaje.
+Está inspirado en el proyecto académico de importación de 100 pulpos bailarines de China a Sucre. Se emplea la ruta vía Iquique indicada en la cotización logística del capítulo 3. El juego es didáctico, no una guía legal o arancelaria.
+Funciona sin internet; si hay internet, puede cargar una fuente tipográfica adicional. Sin conexión usa fuentes del sistema.
